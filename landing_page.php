@@ -20,6 +20,8 @@
 
 get_header(); ?>
 
+<!— Changed —>
+
 		<div id="container">
 			<div id="content" role="main">
 
